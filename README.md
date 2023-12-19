@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @aqarix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aqarix/aqarix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" src="https://komarev.com/ghpvc/?username=aqarix&color=blueviolet">
+hi
+<div align="center">
+  <h3>stats</h3>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aqarix&hide=prs,issues&show_icons=true&theme=graywhite&include_all_commits=true">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqarix&layout=compact&theme=graywhite">
+</div>
